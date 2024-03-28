@@ -4,6 +4,7 @@
       <swiper-item><image src="Images/HomeCover01.jpg" mode='widthFix' class="swiper-image" /></swiper-item>
       <swiper-item><image src="Images/HomeCover02.jpg" mode='widthFix' class="swiper-image" /></swiper-item>
       <swiper-item><image src="Images/HomeCover03.jpg" mode='widthFix' class="swiper-image" /></swiper-item>
+      <swiper-item><image src="Images/HomeCover04.jpg" mode='widthFix' class="swiper-image" /></swiper-item>
   </swiper>
 
 <view class="form-group_label">💰 积分榜</view>
@@ -20,16 +21,16 @@
     </view>
 </view>
 
-<view class="form-group_label">🐻 欢迎回来</view>
+<view class="form-group_label">🐻 留言板</view>
   <view class="form-group" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05), 0 6px 20px 0 rgba(0, 0, 0, 0.05);">
     <view class="form-cell">
       <view class="slide">
-        <view class="title">欢迎！蓝卡比和红卡比！</view>
+        <input class="title">堡堡永远爱荣荣！</input>
       </view>
     </view>
     <view class="form-cell">
       <view class="slide">
-        <view class="title">今天想做什么呢？</view>
+        <input class="title">荣荣永远爱堡堡！</input>
       </view>
     </view>
   </view>
